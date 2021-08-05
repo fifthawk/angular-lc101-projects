@@ -1,0 +1,13 @@
+.chores {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.33em;
+    color: hsl(300, 46%, 46%);
+}
+
+.chores h3 {
+    text-decoration: underline;
+}
+
+.chores ul {
+    font-style: italic;
+}

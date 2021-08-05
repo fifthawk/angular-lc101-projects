@@ -1,0 +1,8 @@
+.movies {
+    color: hsl(180, 100%, 25%);
+    font-size: 1.33em;
+}
+
+.movies h3 {
+    text-align: center;
+}

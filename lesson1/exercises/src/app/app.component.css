@@ -1,0 +1,12 @@
+.justify-content-center{
+   display: flex;
+   align-content: center;
+   text-align: center;
+
+}
+
+.col-3 {
+    border-left: 6px solid hsl(246, 28%, 43%);
+    height: 300px
+}
+
